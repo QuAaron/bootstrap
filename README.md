@@ -1,5 +1,5 @@
 # bootstrap
 
 using bootstrap to deal with some UI problems.
-![Alt text](/relative/path/to/homepage.png?raw=true "Optional Title"
+[[https://github.com/QuArron/bootstrap/blob/master/homepage.png|alt=octocat]]
 ![Alt text](/relative/path/to/login.png?raw=true "Optional Title"
